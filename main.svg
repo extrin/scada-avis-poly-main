@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33"
-     inkscape:cx="1934.2395"
-     inkscape:cy="1048.7946"
+     inkscape:zoom="1"
+     inkscape:cx="972.05925"
+     inkscape:cy="1543.1538"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -906,48 +906,37 @@
      inkscape:label="DATA">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333588px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:proportional-nums;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.1216495"
-       x="1007.1169"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.1216495"
+       x="971.29169"
        y="555.09058"
        id="text1093"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;security_1&quot;,&quot;type&quot;:&quot;Live&quot;}"><tspan
          sodipodi:role="line"
-         x="1007.1169"
-         y="555.09058"
-         id="tspan1091"
-         style="stroke-width:2.1216495"><tspan
-           x="1007.1169"
-           y="555.09058"
-           id="tspan1089"
-           style="stroke-width:2.1216495">5</tspan></tspan></text>
+         id="tspan1371"
+         x="971.29169"
+         y="555.09058">%f</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="976"
+       x="971.29169"
        y="649.19458"
        id="text1075"
        inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=ПРОБЛЕМА!&quot;,&quot;1=ОК&quot;],&quot;tag&quot;:&quot;security_2&quot;}"><tspan
          sodipodi:role="line"
-         x="976"
-         y="649.19458"
-         id="tspan1073"><tspan
-           x="976"
-           y="649.19458"
-           id="tspan1071">ПРОБЛЕМА!</tspan></tspan></text>
+         id="tspan1369"
+         x="971.29169"
+         y="649.19458">%s</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="1006.9346"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="971.29169"
        y="738.0603"
        id="text1057"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;security_3&quot;,&quot;type&quot;:&quot;Live&quot;}"><tspan
          sodipodi:role="line"
-         x="1006.9346"
-         y="738.0603"
-         id="tspan1055"><tspan
-           x="1006.9346"
-           y="738.0603"
-           id="tspan1053">0</tspan></tspan></text>
+         id="tspan1373"
+         x="971.29169"
+         y="738.0603">%f</tspan></text>
     <polygon
        id="security_common"
        points="0,0 16.266,24.819 16.266,92.444 0,117.264 37.53,117.264 21.265,92.444 21.265,24.819 37.53,0 "
