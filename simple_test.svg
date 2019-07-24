@@ -72,6 +72,6 @@
            x="2.8773439"
            y="292.11319"
            id="tspan825"
-           style="stroke-width:0.26458332">%f</tspan></tspan></text>
+           style="stroke-width:0.26458332">%03.1f</tspan></tspan></text>
   </g>
 </svg>
